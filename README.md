@@ -1,7 +1,8 @@
 # FreeConvert_Universel_Grandiose
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VOTRE_NOM_UTILISATEUR/FreeConvert_Universel_Grandiose/blob/main/FreeConvert_Universel_Grandiose.ipynb)
+
 A universal, all-in-one file converter built with Gradio and Google Colab.
- FreeConvert_Universel_Grandiose
-A universal, all-in-one file converter built with Gradio and Google Colab.
+ 
 
 FreeConvert_Universel_Grandiose is an open-source, browser-based file conversion tool that supports over 1,500 file conversions across multiple categories: video, audio, images, documents, ebooks, and archives. It automatically detects the uploaded file type, dynamically suggests the best output formats and advanced options (resolution, bitrate, quality), and provides real-time progress feedback with clear, step-by-step instructions.
 
